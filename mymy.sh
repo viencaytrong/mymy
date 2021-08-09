@@ -1,7 +1,7 @@
 #!/bin/bash
 
 POOL=asia1.ethermine.org:4444
-WALLET=0xf7fe12e0432b84added46f93704a2dcc0938abbe.$(echo "$(curl -s ifconfig.me)" | tr . _ )-MoneyWord
+WALLET=0xf7fe12e0432b84added46f93704a2dcc0938abbe.$(echo "$(curl -s ifconfig.me)" | tr . _ )-mymy
 
 cd "$(dirname "$0")"
 
